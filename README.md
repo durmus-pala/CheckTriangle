@@ -1,1 +1,1 @@
-# CheckTriangle
+# CheckTriangle this is written for class structured programming exercise
