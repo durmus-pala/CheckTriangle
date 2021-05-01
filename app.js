@@ -28,7 +28,7 @@ const tri2 = new Triangle(3, 4, 5);
 const tri3 = new Triangle(4, 4, 5);
 const tri4 = new Triangle(3, 3, 3);
 
-tri1.checkTriange()
-tri2.checkTriange()
-tri3.checkTriange()
-tri4.checkTriange()
+tri1.checkTriange();
+tri2.checkTriange();
+tri3.checkTriange();
+tri4.checkTriange();
